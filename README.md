@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **khushikesharwani91@gmail.com**
 
-- 📄 Know about my experiences [https://khushikesharwani.github.io/PortfolioWebsite/](https://khushikesharwani.github.io/PortfolioWebsite/)
+- 📄 Know about my experiences & Projects [https://khushikesharwani.github.io/PortfolioWebsite/](https://khushikesharwani.github.io/PortfolioWebsite/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
